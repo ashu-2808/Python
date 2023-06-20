@@ -1,3 +1,5 @@
+# Python code for calculating percentage ,CGPA and Division obtained using Conditional Statements.
+
 eng=int(input("Enter marks obtained in English:"))
 mth=int(input("Enter marks obtained in Maths:"))
 sci=int(input("Enter marks obtained in Science:"))
